@@ -1,13 +1,19 @@
 # 💫 About Me:
-¡Hola! Soy Ruyi Xia Ye, desarrolladora de aplicaciones web con formación reciente en programación y una trayectoria previa como enfermera general titulada. Después de varios años dedicándome al cuidado de personas en entornos hospitalarios y residenciales, decidí reinventarme profesionalmente y canalizar mi vocación de servicio y resolución de problemas hacia el desarrollo de software.<br><br>Me apasiona construir soluciones útiles y escalables, especialmente desde el backend, aplicando buenas prácticas de arquitectura como DDD y arquitectura hexagonal. En mis prácticas en Freepik, trabajé en un entorno profesional exigente, colaborando con equipos multidisciplinares y utilizando herramientas modernas como Kubernetes, Tekton, Git y metodologías ágiles.<br><br>Tengo un fuerte interés en el diseño y optimización de bases de datos, así como en el análisis de datos para extraer información valiosa que apoye la toma de decisiones. También me motiva explorar el potencial de las tecnologías de inteligencia artificial, aplicándolas para automatizar procesos, mejorar la productividad y desarrollar soluciones más inteligentes.<br><br>Disfruto aprender continuamente, resolver problemas complejos y aportar valor desde una mentalidad crítica y colaborativa. Combino lógica, empatía y curiosidad técnica para enfrentar cada nuevo reto con entusiasmo.
+¡Hola! Soy Ruyi, desarrolladora de aplicaciones web con formación reciente en programación y una trayectoria anterior como enfermera general. Tras varios años en el ámbito sanitario, decidí dar un giro profesional y orientar mi vocación de servicio y resolución de problemas hacia el desarrollo de software.
 
-*Hi! I'm Ruyi Xia Ye, a web application developer with recent training in programming and a previous background as a registered general nurse. After several years caring for people in hospital and residential settings, I decided to reinvent myself professionally and channel my passion for service and problem-solving into software development.*
+Me especializo en el desarrollo backend, con interés en arquitecturas como DDD y hexagonal, así como en el diseño y optimización de bases de datos. También me apasiona el análisis de datos y la aplicación de inteligencia artificial para mejorar procesos y crear soluciones más inteligentes.
 
-*I'm passionate about building useful and scalable solutions, especially on the backend, applying best practices in architecture such as Domain-Driven Design (DDD) and hexagonal architecture. During my internship at Freepik, I worked in a demanding professional environment, collaborating with multidisciplinary teams and using modern tools like Kubernetes, Tekton, Git, and agile methodologies.*
+Durante mis prácticas en Freepik, trabajé en un entorno profesional exigente, integrándome en un equipo multidisciplinar, donde participé en el desarrollo y despliegue de una API con tecnologías como Kubernetes, Tekton, Git y metodologías ágiles.
 
-*I have a strong interest in database design and optimization, as well as in data analysis to extract meaningful insights that support decision-making. I'm also highly motivated to explore the potential of artificial intelligence technologies, applying them to automate processes, enhance productivity, and develop smarter solutions.*
+Soy una persona constante y orientada al aprendizaje continuo. Me gusta colaborar, compartir conocimiento y buscar siempre formas de mejorar lo que hago, combinando lógica, empatía y pensamiento crítico.
 
-*I enjoy continuous learning, tackling complex problems, and bringing value with a critical and collaborative mindset. I combine logic, empathy, and technical curiosity to approach each new challenge with enthusiasm.*
+*Hi! I'm Ruyi, a web application developer with recent training in programming and a previous career as a registered general nurse. After several years in the healthcare field, I decided to make a professional shift and channel my passion for service and problem-solving into software development.*
+
+*I specialize in backend development, with a strong interest in architectures such as Domain-Driven Design (DDD) and hexagonal architecture, as well as in database design and optimization. I'm also passionate about data analysis and applying artificial intelligence to improve processes and build smarter solutions.*
+
+*During my internship at Freepik, I worked in a demanding professional environment as part of a multidisciplinary team. I contributed to the development and deployment of an API using technologies like Kubernetes, Tekton, Git, and agile methodologies.*
+
+*I'm a consistent and growth-oriented person who enjoys learning, collaborating, and sharing knowledge. I always look for ways to improve my work, combining logic, empathy, and critical thinking.*
 
 
 ## 🌐 Socials:
