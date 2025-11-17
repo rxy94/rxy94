@@ -1,20 +1,12 @@
 # 💫 About Me:
-¡Hola! Soy Ruyi, desarrolladora de aplicaciones web con formación reciente en programación y una trayectoria anterior como enfermera general. Tras varios años en el ámbito sanitario, decidí dar un giro profesional y orientar mi vocación de servicio y resolución de problemas hacia el desarrollo de software.
 
-Me especializo en el desarrollo backend, con interés en arquitecturas como DDD y hexagonal, así como en el diseño y optimización de bases de datos. También me apasiona el análisis de datos y la aplicación de inteligencia artificial para mejorar procesos y crear soluciones más inteligentes.
+Hi! I'm Ruyi, a web application developer with recent training in programming and a previous career as a registered general nurse. After several years in the healthcare field, I decided to make a professional shift and channel my passion for service and problem-solving into software development.
 
-Durante mis prácticas en Freepik, trabajé en un entorno profesional exigente, integrándome en un equipo multidisciplinar, donde participé en el desarrollo y despliegue de una API con tecnologías como Kubernetes, Tekton, Git y metodologías ágiles.
+I specialize in backend development, with a strong interest in architectures such as Domain-Driven Design (DDD) and hexagonal architecture, as well as in database design and optimization. I'm also passionate about data analysis and applying artificial intelligence to improve processes and build smarter solutions.
 
-Soy una persona constante y orientada al aprendizaje continuo. Me gusta colaborar, compartir conocimiento y buscar siempre formas de mejorar lo que hago, combinando lógica, empatía y pensamiento crítico.
+During my internship at Freepik, I worked in a demanding professional environment as part of a multidisciplinary team. I contributed to the development and deployment of an API using technologies like Kubernetes, Tekton, Git, and agile methodologies.
 
-*Hi! I'm Ruyi, a web application developer with recent training in programming and a previous career as a registered general nurse. After several years in the healthcare field, I decided to make a professional shift and channel my passion for service and problem-solving into software development.*
-
-*I specialize in backend development, with a strong interest in architectures such as Domain-Driven Design (DDD) and hexagonal architecture, as well as in database design and optimization. I'm also passionate about data analysis and applying artificial intelligence to improve processes and build smarter solutions.*
-
-*During my internship at Freepik, I worked in a demanding professional environment as part of a multidisciplinary team. I contributed to the development and deployment of an API using technologies like Kubernetes, Tekton, Git, and agile methodologies.*
-
-*I'm a consistent and growth-oriented person who enjoys learning, collaborating, and sharing knowledge. I always look for ways to improve my work, combining logic, empathy, and critical thinking.*
-
+I'm a consistent and growth-oriented person who enjoys learning, collaborating, and sharing knowledge. I always look for ways to improve my work, combining logic, empathy, and critical thinking.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruyi-xia-ye-b19853189/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruyi1994@gmail.com) 
