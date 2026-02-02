@@ -1,15 +1,15 @@
 # 💫 About Me:
 
-Hi! I'm Ruyi, a web application developer with recent training in programming and a previous career as a registered general nurse. After several years in the healthcare field, I decided to make a professional shift and channel my passion for service and problem-solving into software development.
+Hi! I'm Ruyi, a web application developer with recent training in programming and a previous career as a registered general nurse. After several years in the healthcare field, I decided to make a professional shift towards software development, an area that has always fascinated me for its blend of logic, creativity, and problem-solving.
 
-I specialize in backend development, with a strong interest in architectures such as Domain-Driven Design (DDD) and hexagonal architecture, as well as in database design and optimization. I'm also passionate about data analysis and applying artificial intelligence to improve processes and build smarter solutions.
+I specialize in backend development, with a strong interest in architectures such as Domain-Driven Design (DDD) and hexagonal architecture, as well as in database design and optimization. I'm currently pursuing a specialization course in AI and Big Data, expanding my knowledge in these transformative technologies and how they can be applied to create innovative solutions.
 
-During my internship at Freepik, I worked in a demanding professional environment as part of a multidisciplinary team. I contributed to the development and deployment of an API using technologies like Kubernetes, Tekton, Git, and agile methodologies.
+During my internship at a technology company, I worked in a demanding professional environment as part of a multidisciplinary team. I contributed to the development and deployment of an API using technologies like PHP, Laravel, Docker, and AWS, following best practices in clean code and automated testing.
 
 I'm a consistent and growth-oriented person who enjoys learning, collaborating, and sharing knowledge. I always look for ways to improve my work, combining logic, empathy, and critical thinking.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruyi-xia-ye-b19853189/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruyi1994@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruyi-xia-ye-b19853189/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruyi1994@gmail.com)
 
 # 💻 Tech Stack:
 ## Backend
