@@ -6,10 +6,11 @@ I specialize in backend development, with a strong interest in architectures suc
 
 During my internship at a technology company, I worked in a demanding professional environment as part of a multidisciplinary team. I contributed to the development and deployment of an API using technologies like PHP, Laravel, Docker, and AWS, following best practices in clean code and automated testing.
 
-I'm a consistent and growth-oriented person who enjoys learning, collaborating, and sharing knowledge. I always look for ways to improve my work, combining logic, empathy, and critical thinking.
+I’m a dedicated learner who enjoys collaborating and sharing knowledge, and I strive to improve through logic, empathy, and critical thinking.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruyi-xia-ye-b19853189/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruyi1994@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruyi-xia-ye-b19853189/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruyi1994@gmail.com)
 
 # 💻 Tech Stack:
 ## Backend
@@ -47,9 +48,8 @@ I'm a consistent and growth-oriented person who enjoys learning, collaborating, 
 ![](https://github-readme-stats.vercel.app/api?username=rxy94&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rxy94&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rxy94&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rxy94&theme=dark&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rxy94&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxy94&theme=dark&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=rxy94&icon=0&color=0)](https://visitcount.itsvg.in)
 
